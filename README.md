@@ -59,3 +59,14 @@ This website serves as the primary digital touchpoint for IDR, clearly articulat
 ---
 
 Developed with precision to meet and exceed the IDR Assessment criteria.
+
+
+
+## 🎨 Design & Brand Identity
+
+### 💠 Visual Philosophy
+The IDR visual identity is crafted to project authority, innovation, and resilience. The design departs from traditional corporate aesthetics to reflect a modern, tech-forward institution.
+
+- **Color Palette**: Uses a striking contrast of **Burnt Orange (#FF6B00)** and **Ink Black**. This combination is energetic yet authoritative, providing a vibrant, professional feel that stands out from typical industry standards.
+- **Typography**: Features clean, minimalist sans-serif typography for brand clarity. This alignment supports IDR's identity as a cutting-edge, educational, and tech-focused entity.
+- **Symbolism**: The **abstract cube graphic** serves as a core visual metaphor. It represents stability and the interconnected nature of digital systems, visually grounding the concepts of risk management and architectural resilience.
